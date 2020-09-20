@@ -1,0 +1,4 @@
+{
+  "ROOT": { "router": "/", "label": "Inicio" },
+  "CUSTOMERS": { "router": "/customers", "label": "Clientes" }
+}

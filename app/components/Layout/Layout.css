@@ -1,0 +1,19 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+}
+.content {
+  background-image: url('./../../assets/logo/logo_fundo_branco_opacity.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 80vh;
+  flex: 1;
+}
+
+.menu {
+  width: 20vw;
+  height: 100vh;
+  box-shadow: 1px 1px 10px rgba(5, 5, 5, 0.2);
+}

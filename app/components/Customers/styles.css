@@ -1,0 +1,37 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  position: relative;
+}
+.container img {
+  transform: rotate('45deg');
+}
+
+.title {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  background-color: #2fac66;
+  width: 20ch;
+  margin-bottom: 10px;
+  padding: 20px 8px;
+}
+
+.title svg {
+  fill: #fff;
+}
+.title h3 {
+  color: #fff;
+  text-align: center;
+}
+
+.container table {
+  flex: 1;
+}
+.footer {
+  bottom: 20px;
+  position: absolute;
+  right: 20px;
+}

@@ -1,4 +1,8 @@
 {
   "ROOT": { "router": "/", "label": "Inicio" },
-  "CUSTOMERS": { "router": "/customers", "label": "Clientes" }
+  "CUSTOMERS": { "router": "/customers", "label": "Clientes" },
+  "CUSTOMER_RECORD": {
+    "router": "/customer_record",
+    "label": "Nova Ficha"
+  }
 }
